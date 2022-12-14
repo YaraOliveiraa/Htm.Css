@@ -4,6 +4,7 @@
     font-family: "android";
     src: url("../fontes/idroid.otf") format("opentype");
     font-weight: normal;
+    
 }
 :root{
     --cor0:#c5ebd6;
